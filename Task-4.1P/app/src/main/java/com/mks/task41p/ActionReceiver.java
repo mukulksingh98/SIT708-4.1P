@@ -1,4 +1,4 @@
-package com.tamim.task41p;
+package com.mks.task41p;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
